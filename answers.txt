@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a remote repository in Git is like a common project folder on the internet or another network. It’s where all team members can exchange their changes.
+=======
+Forking a repository is the process of creating a personal copy of someone else’s project on platforms like GitHub. This allows you to freely experiment with changes without affecting the original project. It’s often used to propose changes to someone else’s project or as a starting point for your own idea.
+>>>>>>> progress
