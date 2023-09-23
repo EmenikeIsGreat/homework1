@@ -1,0 +1,1 @@
+a remote repository in Git is like a common project folder on the internet or another network. It’s where all team members can exchange their changes.
